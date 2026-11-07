@@ -1,0 +1,24 @@
+FESRIVAL MUSICAL
+
+- Nombre: Angeles Rubi Ibarra Jalomo
+- Número de control: [Agregar solo si es obligatorio publicarlo]
+
+Descripción del proyecto
+
+Este proyecto consiste en un programa desarrollado en Python que simula un festival musical en el que participan diferentes tipos de artistas: cantantes, DJ y bandas.
+
+El programa utiliza los conceptos de programación orientada a objetos, principalmente herencia, polimorfismo y constructores.
+
+Características
+
+- Clase base "Artista".
+- Clases derivadas "Cantante", "DJ" y "Banda".
+- Uso de constructores para inicializar los atributos.
+- Herencia mediante "super()".
+- Polimorfismo mediante la sobrescritura del método "actuar()".
+- Registro de artistas mediante entradas del usuario.
+- Simulación de las presentaciones de cada artista.
+
+Objetivo
+
+Aplicar los conceptos de herencia y polimorfismo mediante el desarrollo de un programa orientado a objetos.
